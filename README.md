@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on **Republic Of Türkiye Ministry Of Agriculture And Forestry via Zirvedeki Beyinler**
  
- 🌱 I’m currently learning **VueJS, RabbitMQ**
+ 🌱 I’m currently learning **RabbitMQ**
 
 💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, React, JavaScript, T-SQL, ASP.NET Core MVC/WEB API</br>**
 
