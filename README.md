@@ -1,6 +1,6 @@
  <img src="https://github.com/user-attachments/assets/0dfec139-9228-432f-9db3-d4482c8111ce" width="950" height="350" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu;" />
 
 </h1>
 <h3 align="center">A passionate software engineer from Türkiye ᵀᴿ</h3>
