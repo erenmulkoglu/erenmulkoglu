@@ -32,7 +32,7 @@
   </a>
    </a>
    <a href="https://gitlab.com/erenmulkoglu" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=orange" />
+    <img src="https://img.shields.io/badge/GitLab-dcdcde?style=for-the-badge&logo=gitlab&logoColor=orange" />
   </a>
    
 </div>
