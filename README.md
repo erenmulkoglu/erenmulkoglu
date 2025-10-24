@@ -21,13 +21,13 @@
   <a href="mailto:erenmulkoglu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/erenmulkoglu96/" target="_blank">
+  <a href="https://www.linkedin.com/in/erenmulkoglu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://www.instagram.com/eren.mulkoglu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-F58529?style=for-the-badge&logo=instagram&logoColor=darkred" target="_blank" />
   </a>
-    <a href="https://twitter.com/erenmulkoglu96" target="_blank">
+    <a href="https://twitter.com/erenmulkoglu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=x&logoColor=black" target="_blank" />
   </a>
    
@@ -43,14 +43,14 @@
 <hr/>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erenmulkoglu96&label=Profile%20views&color=0e75b6&style=flat" alt="erenmulkoglu96" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erenmulkoglu&label=Profile%20views&color=0e75b6&style=flat" alt="erenmulkoglu" /> </p>
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact&theme=default" alt="erenmulkoglu96" width="353" height="353" />
-&nbsp <img src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu&layout=compact&theme=default" alt="erenmulkoglu96" width="353" height="353" />
+&nbsp <img src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu&show_icons=true&locale=en" alt="erenmulkoglu" />
 
 <hr>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenmulkoglu96&" alt="erenmulkoglu96" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenmulkoglu&" alt="erenmulkoglu" />
 </div>
