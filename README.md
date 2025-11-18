@@ -49,6 +49,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erenmulkoglu&label=Profile%20views&color=0e75b6&style=flat" alt="erenmulkoglu" /> </p>
 
+https://github-profile-trophy.vercel.app/?username=erenmulkoglu
+
 
 <div align="center">
 
