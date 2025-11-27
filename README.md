@@ -11,8 +11,8 @@
  
  🌱 I’m currently learning **RabbitMQ**
 
-💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, React, JavaScript, T-SQL, ASP.NET Core MVC/WEB API</br>**
-
+💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, Microsoft SQL Server, NodeJs <br>React, JavaScript, Oracle, T-SQL, ASP.NET Core MVC/WEB API</br>**
+ 
 ⚡ Fun fact **Solo Leveling, My Hero Academia, Jujutsu Kaisen, Bleach**
 
  </div>
