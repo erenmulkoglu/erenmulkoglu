@@ -13,7 +13,7 @@
 
 💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, Microsoft SQL Server, NodeJs <br>React, JavaScript, Oracle, T-SQL, ASP.NET Core MVC/WEB API</br>**
  
-⚡ Fun fact **Solo Leveling, My Hero Academia, Jujutsu Kaisen, Bleach**
+⚡ Fun fact **Bleach, Solo Leveling, My Hero Academia, Jujutsu Kaisen**
 
  </div>
  
