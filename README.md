@@ -47,6 +47,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erenmulkoglu)](https://github.com/erenmulkoglu/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu&layout=compact&theme=default" alt="erenmulkoglu96" width="353" height="353" />
