@@ -47,7 +47,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erenmulkoglu)](https://github.com/erenmulkoglu/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
