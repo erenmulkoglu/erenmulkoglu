@@ -8,11 +8,8 @@
 <div align="center">
  
  🔭 I’m currently working on **Republic Of Türkiye Ministry Of Agriculture And Forestry via Zirvedeki Beyinler**
- 
-💬 Ask me about **.NET, EF Core, Angular, TypeScript, Microsoft SQL Server, NodeJs, <br>React, JavaScript, Oracle, T-SQL, ASP.NET Core MVC/WEB API, Vue</br>**
- 
-⚡ Fun fact **Bleach, Solo Leveling, My Hero Academia, Jujutsu Kaisen**
 
+ 
  </div>
  
 <div align="center"> 
