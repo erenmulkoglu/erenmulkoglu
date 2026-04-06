@@ -5,9 +5,7 @@
 </h1>
 <h3 align="center">A passionate software engineer from Türkiye ᵀᴿ</h3>
 <br/>
-<div align="center">
- 
- 🔭 I’m currently working on **Republic Of Türkiye Ministry Of Agriculture And Forestry via Zirvedeki Beyinler**
+<div align="center"> 
 
 
  
