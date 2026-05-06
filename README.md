@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0dfec139-9228-432f-9db3-d4482c8111ce" width="950" height="350" />
+<img src="<img width="800" height="450" alt="yazilimcilarin-bilmesi-gerekenler" src="https://github.com/user-attachments/assets/226cb260-295e-4d73-b7a9-ab41ccb5d0af" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu;" />
